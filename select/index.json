@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アタシガルール",
+  "base_artist": "桐生つかさ (CV: 河瀬茉希)",
+  "createdAt": "2026-03-01T01:39:09.417737Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アタシガルール",
+      "artist": "桐生つかさ(河瀬茉希)",
+      "has_synced": false,
+      "path": "select/pl_01_アタシガルール_桐生つかさ(河瀬茉希).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アタシガルール (GAME VERSION)",
+      "artist": "桐生つかさ(河瀬茉希)",
+      "has_synced": false,
+      "path": "select/pl_02_アタシガルール_(GAME_VERSION)_桐生つかさ(河瀬茉希).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アタシガルール (GAME VERSION)",
+      "artist": "桐生つかさ(河瀬茉希)",
+      "has_synced": false,
+      "path": "select/pl_03_アタシガルール_(GAME_VERSION)_桐生つかさ(河瀬茉希).txt"
+    }
+  ]
+}
